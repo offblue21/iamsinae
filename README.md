@@ -1,2 +1,2 @@
-# iamsinae
-http://offblue21.github.io/iamsinae
+# tales
+http://jlc2270.github.io/tales
