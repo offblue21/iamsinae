@@ -53,8 +53,7 @@
 #myCarousel {
     z-index: 100;
     overflow: hidden;
-    height: 600px;
-}
+   }
 
 .myCarousel .item {
   position: absolute;
